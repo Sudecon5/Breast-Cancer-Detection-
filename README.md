@@ -1,1 +1,8 @@
-# Breast-Cancer-Detection-
+<h1> Breast-Cancer-Detection-Using Machine Learning Module</h1>
+<img width="500" alt="breast_cancer" src="https://github.com/user-attachments/assets/5b6beca5-b24d-4d3c-9dd1-ddf2faf559cf" /></br>
+<b> <h2>Problem Statement:</h2> </b> Breast Cancer is one of deadliest cancer that affects 1 in 8 women. The problem arises is that usually it is detected at much later stage which leads to early death or complicated health issues. The early detection can not only save lives but also prevent breast cancer. Therefore, this module looks  into which features can help in detection of Breast cancer. The machine learning model identifies key features to predict the target that is Breast cancer.The module involves numerous steps of data loading, data cleaning, data visulization and identification of best features. The machine learning model used are -
+<h3> Logistic Regression </h3> Logistic regressionn is a statistical method used for binary classification that models the probability of a categorical column usinng a logistic function.
+<h3> Random Forest Classifier </h3> An ensemble learning method that builds multiple decisionn trees and merges outputs to improve accuracy and control overfitting. 
+<h3> XG Boost</h3> A high performance gradient boosting algorithm that builds decisions trees sequentially to correct errors of previous trees, optimised for speed and accuracy. 
+<h3> SVM </h3> The SVM stands for Support Vector Machine which is a supervised learning model that finds the best hyperplabe to separate data into classes by maximizing the margin between them. 
+<h2> Conclusion</h2> Through Five-Fold Cross Validation it is found that Logistic Regression performs better followed by Random Forest, XGBoost and SVM.
